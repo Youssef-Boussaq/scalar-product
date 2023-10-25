@@ -1,0 +1,10 @@
+v=[]
+u=[]
+p=1
+for i in range(0,3):
+    a=float(input("write the element of th vectore V ; "))
+    b=float(input("write the element of th vectore U ; "))
+    v.append(a)
+    u.append(b)
+    p==v[i]*u[i]
+print(p)
